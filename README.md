@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on LeetComp<br>👯 I’m looking to collaborate on Software Related Roles<br>🤝 I’m looking for help with Developing<br>🌱 I’m currently learning Jenkins<br>💬 Ask me about My future plans<br>⚡ Fun fact never stopped
 
 
 ## 🌐 Socials:
